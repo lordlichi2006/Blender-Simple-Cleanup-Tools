@@ -1,8 +1,8 @@
 schema_version = "1.0.0"
 
-id = "LichisCleanupTools"
+id = "simplecleanuptools"
 version = "1.0.0"
-name = "Lichi's Cleanup Tools"
+name = "Simple Cleanup Tools"
 tagline = "Tools that help with tedious tasks"
 maintainer = "LordLichi2006"
 type = "add-on"
