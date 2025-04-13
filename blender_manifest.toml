@@ -1,0 +1,21 @@
+schema_version = "1.0.0"
+
+id = "LichisCleanupTools"
+version = "1.0.0"
+name = "Lichi's Cleanup Tools"
+tagline = "Tools that help with tedious tasks"
+maintainer = "LordLichi2006"
+type = "add-on"
+website = "https://github.com/lordlichi2006/"
+tags = ["Cleanup", "Tools"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "MIT",
+] 
+
+copyright = [
+   "2025 LordLichi2006",
+]
+[permissions]
